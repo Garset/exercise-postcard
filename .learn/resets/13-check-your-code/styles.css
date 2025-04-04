@@ -1,5 +1,5 @@
 * {
-	border: 1px ;
+	border: 1px dashed red;
 	min-height: 10px;
 }
 body {
@@ -35,12 +35,4 @@ body {
 input {
 	border: none;
 	border-bottom: 1px grey solid;
-}
-.postcard-footer {
-	text-align: center;
-
-}
-button {
-	background-color: silver;
-	padding:3%;
 }
